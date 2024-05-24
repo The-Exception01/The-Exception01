@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @The-Exception01
+- 🌱 I’m currently learning HTML
